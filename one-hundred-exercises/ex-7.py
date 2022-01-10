@@ -16,7 +16,7 @@ def greatest_common_divisor(n1, n2):
     return max(common_divisor)
 
 # def greatest_common_divisor(a, b):
-#     while b:
+#     while b:   #while b != 0 ?
 #         a, b = b, a % b
 #     return a
 
