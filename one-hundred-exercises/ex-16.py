@@ -11,4 +11,4 @@ def Matrix(m):
     result2 =
     return result
    
-print(Matrix('3 4\n5 6')0
+print(Matrix('3 4\n5 6'))
